@@ -1,0 +1,19 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "\"多人博客系统\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wodouniwanerne/myBlog.git"
+  },
+  "author": "liujingjing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wodouniwanerne/myBlog/issues"
+  },
+  "homepage": "https://github.com/wodouniwanerne/myBlog#readme"
+}
